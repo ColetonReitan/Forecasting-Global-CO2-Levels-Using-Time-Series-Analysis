@@ -1,7 +1,6 @@
 # Forecasting Global CO2 Levels - A time series analysis
 
-This was a semester long project conducted in the fall of 2021. This analysis includes data ETL, EDA & supervised machine learning modeling for time series analysis.  
-
+This was a semester long project conducted in the fall of 2021. This analysis includes data ETL, EDA & supervised machine learning modeling for time series analysis.    
 Completed fully within R
 
 ## Project Overview
@@ -17,7 +16,7 @@ levels could potentially rise to in coming years.
 ## Research Questions
 
 ## Data
-The data is from the Global Monitoring Lab located in Mauna Loa, Hawaii, taken from the FRED. The dating of the data goes back as far as 1960. 
+The data is from the Global Monitoring Lab located in Mauna Loa, Hawaii, taken from the FRED. The dating of the data goes back as far as 1960 through 2021. There are roughly 750 observations across 5 features. 
 
 ### Variables
 Year: The year in which the data is from  
@@ -27,7 +26,10 @@ Average: Average Atmospheric Level of CO2 (PPM)
 Interpolated: Secondary reading of average atmospheric level of CO2 (PPM)  
 
 ## Methodology
+
 ### EDA
+
+### Modeling
 
 
 ## Conclusions
